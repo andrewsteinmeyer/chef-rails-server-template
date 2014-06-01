@@ -1,0 +1,9 @@
+data_bags/users/*.json
+cookbooks/**/*
+nodes/*.json
+./data_bag_key
+data_bag_key
+.vagrant/*
+.chef/*
+
+
